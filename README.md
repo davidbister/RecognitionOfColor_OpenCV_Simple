@@ -1,0 +1,1 @@
+# RecognitionOfColor_OpenCV_Simple
